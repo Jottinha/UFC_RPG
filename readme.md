@@ -1,11 +1,41 @@
-Nesse programa eu criei um "jogo" de UFC estilo RPG, aonde nós temos força, agilidade e condicionamento de acordo com suas caracteristicas físicas.
-Desta forma é possivel ganhar a partida mesmo que o oponente seja mais pesado ou mais alto, porem tudo depende da sorte nos "dados"(Random number on JAVA)
+# UFC RPG Game
+
+Este programa é um jogo estilo RPG de UFC, onde os lutadores possuem atributos de força, agilidade e condicionamento físico. O objetivo é vencer as lutas com base nessas características e sorte nos dados gerados aleatoriamente.
 
 ![image](https://user-images.githubusercontent.com/69482936/145728134-20894e25-1b53-4678-8e62-3dcbeca8713f.png)
 
-Atualmente eu tenho 5 lutadores e defino quem vai lutar manualmente como está descrito na imagem, o programa verifica se não estou colocando o mesmo "personagem" para lutar e permite a luta.
+Atualmente, o programa possui 5 lutadores pré-definidos, e é possível escolher manualmente quais deles irão lutar, como mostrado na imagem. O programa verifica se o mesmo lutador não está sendo selecionado para lutar duas vezes e permite a realização da luta.
 
-Em seguida nós iniciamos a luta e cada round da luta é passado na tela lentamente para visualização, no final nós temos o campeão.
+Durante a luta, cada round é exibido na tela de forma lenta para facilitar a visualização, e no final é declarado o campeão.
+
 ![image](https://user-images.githubusercontent.com/69482936/145728285-e31ef665-a0ac-444f-9e24-957b745e63a3.png)
 
-Esse foi um programa feito durante meus estudos de agregação entre Objetos com Java(POO)
+Este programa foi desenvolvido como parte dos estudos de programação orientada a objetos (POO) em Java, explorando o conceito de agregação entre objetos.
+
+## Instalação
+
+1. Faça o clone deste repositório para o seu ambiente local.
+
+2. Certifique-se de ter o Java instalado em seu sistema.
+
+## Uso
+
+1. Navegue até o diretório do projeto.
+
+2. Compile o código-fonte usando o comando `javac Main.java`.
+
+3. Execute o programa usando o comando `java Main`.
+
+4. Siga as instruções exibidas no programa para escolher os lutadores e iniciar a luta.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja colaborar com este projeto, siga as diretrizes abaixo:
+
+- Abra um pull request para propor alterações ou adições ao código.
+- Relate qualquer problema ou forneça feedback na seção de problemas (issues) do repositório.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
